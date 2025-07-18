@@ -8,3 +8,8 @@ topics: [ Learning, Reading, Function Programming ]
 
 ## Lorem
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione nemo nesciunt amet doloremque consectetur mollitia quo illum quae. Nostrum sed in consequuntur eius animi voluptate vel veritatis, ut eligendi sapiente.
+
+```python
+for i in range(10):
+    print(f"Hello {i}")
+```
